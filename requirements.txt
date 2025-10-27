@@ -1,0 +1,5 @@
+# Core dependencies
+SpeechRecognition>=3.8.1  # For voice command recognition
+pyttsx3>=2.90            # For text-to-speech feedback
+PyAudio>=0.2.11         # For microphone access
+requests>=2.25.1        # For Steam API calls
